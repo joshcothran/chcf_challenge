@@ -1,0 +1,53 @@
+#year_select {
+	width: 70px;
+}
+
+#service_select, #payer_select {
+	width: 200px;
+	margin-right:10px;
+}
+
+#header {
+	margin-top:40px;
+	height:44px;
+	line-height:44px;
+}
+
+#page_description {
+	float:left;
+	font-size:16px;
+	font-weight:bold;
+}
+
+#controls {
+	float:right;
+}
+
+#hdr_filter_label {
+	font-style:italic;
+}
+
+.control-label {
+	font-weight:bold;
+}
+
+#year_buttons {
+	display:inline-block;
+	top:6px;
+}
+
+#percent_gdp_chart {
+	height: 100px;
+}
+
+body {
+	overflow: hidden;
+}
+
+rect.parent.target-rect {
+	cursor:pointer;
+}
+
+g.bar rect {
+	stroke-width: 0;
+}

@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<title>Health Spending by Service | The Picture of Health: CHCF Data Design Challenge</title>
+		
+		<!-- STYLESHEET INCLUDES -->
+<?php include("styles.php"); ?>
+		
+		<!-- JAVASCRIPT INCLUDES -->
+<?php include("scripts.php"); ?>
+		<script type="text/javascript" src="js/IciclesVisualization.js"></script>
+		<script type="text/javascript" src="js/chcf_vis.js"></script>
+		<script type="text/javascript" src="js/chcf_services.js"></script>	
+		<script>
+			$(document).ready(function() {
+				$("#nav_services").toggleClass("active");
+				initGlobal();
+			})
+		</script>
+	</head>
+	<body>
+		<!-- Navigation bar -->
+<?php include("navbar.php"); ?>
+
+		<!-- Main content container -->
+		<div class="container">
+			<div id="header">
+				<div id="page_description"><span id="hdr_year_label"></span> Spending by Service &ndash; <span id="hdr_filter_label"></span></div>
+				<div id="controls">
+					<span class="control-label">Payer:</span> <select id="payer_select" name="payer_select"></select>
+					<span class="control-label">Year:</span> <select id="year_select" name="year_select"></select>				
+					<div id="year_buttons" class="btn-group">
+			          <a id="btn_play_year" class="btn"><i class="icon-play"></i></a>
+			          <a id="btn_prev_year" class="btn"><i class="icon-step-backward"></i></a>
+			          <a id="btn_next_year" class="btn"><i class="icon-step-forward"></i></a>
+					</div>
+				</div>
+			</div>
+			<div id="chart"></div>
+		</div>
+	</body>
+</html>

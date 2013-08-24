@@ -1,0 +1,285 @@
+{
+    "payers_original": {
+        "p1": {
+            "id": "p1",
+            "title": "Total National Health Expenditures (All Sources of Funds/Payers)"
+        },
+        "p2": {
+            "id": "p2",
+            "title": "Out of pocket"
+        },
+        "p3": {
+            "id": "p3",
+            "title": "Health Insurance"
+        },
+        "p4": {
+            "id": "p4",
+            "title": "Private Health Insurance"
+        },
+        "p5": {
+            "id": "p5",
+            "title": "Medicare"
+        },
+        "p6": {
+            "id": "p6",
+            "title": "Medicaid (Title XIX)"
+        },
+        "p7": {
+            "id": "p7",
+            "title": "Federal"
+        },
+        "p8": {
+            "id": "p8",
+            "title": "State and Local"
+        },
+        "p9": {
+            "id": "p9",
+            "title": "Total CHIP (Title XIX and Title XXI)"
+        },
+        "p10": {
+            "id": "p10",
+            "title": "Federal"
+        },
+        "p11": {
+            "id": "p11",
+            "title": "State and Local"
+        },
+        "p12": {
+            "id": "p12",
+            "title": "Department of Defense"
+        },
+        "p13": {
+            "id": "p13",
+            "title": "Department of Veterans' Affairs"
+        },
+        "p14": {
+            "id": "p14",
+            "title": "Other Third Party Payers and Programs"
+        },
+        "p15": {
+            "id": "p15",
+            "title": "Worksite Health Care"
+        },
+        "p16": {
+            "id": "p16",
+            "title": "Other Private Revenues"
+        },
+        "p17": {
+            "id": "p17",
+            "title": "Indian Health Services "
+        },
+        "p18": {
+            "id": "p18",
+            "title": "Workers' Compensation"
+        },
+        "p19": {
+            "id": "p19",
+            "title": "General Assistance"
+        },
+        "p20": {
+            "id": "p20",
+            "title": "Maternal/Child Health"
+        },
+        "p21": {
+            "id": "p21",
+            "title": "Federal  "
+        },
+        "p22": {
+            "id": "p22",
+            "title": "State and Local"
+        },
+        "p23": {
+            "id": "p23",
+            "title": "Vocational Rehabilitation"
+        },
+        "p24": {
+            "id": "p24",
+            "title": "Federal"
+        },
+        "p25": {
+            "id": "p25",
+            "title": "State and Local"
+        },
+        "p26": {
+            "id": "p26",
+            "title": "Other Federal Programs"
+        },
+        "p27": {
+            "id": "p27",
+            "title": "SAMHSA"
+        },
+        "p28": {
+            "id": "p28",
+            "title": "Other State and Local Programs"
+        },
+        "p29": {
+            "id": "p29",
+            "title": "School Health"
+        },
+        "p30": {
+            "id": "p30",
+            "title": "Public Health Activity"
+        },
+        "p31": {
+            "id": "p31",
+            "title": "Federal"
+        },
+        "p32": {
+            "id": "p32",
+            "title": "State and Local"
+        },
+        "p33": {
+            "id": "p33",
+            "title": "Investment"
+        },
+        "p34": {
+            "id": "p34",
+            "title": "Research"
+        },
+        "p35": {
+            "id": "p35",
+            "title": "Structures & Equipment"
+        },
+        "p36": {
+            "id": "p36",
+            "title": "Total CMS Programs (Medicaid, CHIP and Medicare)"
+        }
+    },
+        "services_original": {
+        "s1": {
+            "id": "s1",
+            "title": "Total National Health Expenditures"
+        },
+        "s2": {
+            "id": "s2",
+            "title": "Health Consumption Expenditures"
+        },
+        "s3": {
+            "id": "s3",
+            "title": "Personal Health Care"
+        },
+        "s4": {
+            "id": "s4",
+            "title": "Total Hospital Expenditures"
+        },
+        "s5": {
+            "id": "s5",
+            "title": "Total Physician and Clinical Expenditures"
+        },
+        "s6": {
+            "id": "s6",
+            "title": "Total Dental Services Expenditures"
+        },
+        "s7": {
+            "id": "s7",
+            "title": "Total Other Professional Services Expenditures"
+        },
+        "s8": {
+            "id": "s8",
+            "title": "Total Home Health Care Expenditures"
+        },
+        "s9": {
+            "id": "s9",
+            "title": "Total Non-Durable Medical Products Expenditures"
+        },
+        "s10": {
+            "id": "s10",
+            "title": "Total Prescription Drug Expenditures"
+        },
+        "s11": {
+            "id": "s11",
+            "title": "Total Durable Medical Equipment Expenditures"
+        },
+        "s12": {
+            "id": "s12",
+            "title": "Total Nursing Care Facilities and Continuing Care Retirement Communities"
+        },
+        "s13": {
+            "id": "s13",
+            "title": "Total Other Health, Residential, and Personal Care Expenditures"
+        },
+        "s14": {
+            "id": "s14",
+            "title": "Total Administration and Total Net Cost of Health Insurance Expenditures"
+        },
+        "s15": {
+            "id": "s15",
+            "title": "State and Local Administration Expenditures"
+        },
+        "s16": {
+            "id": "s16",
+            "title": "Federal Administration Expenditures"
+        },
+        "s17": {
+            "id": "s17",
+            "title": "Net Cost of Health Insurance Expenditures"
+        },
+        "s18": {
+            "id": "s18",
+            "title": "Public Health Activity"
+        },
+        "s19": {
+            "id": "s19",
+            "title": "Research"
+        },
+        "s20": {
+            "id": "s20",
+            "title": "Total Structures and Equipment"
+        },
+        "s21": {
+            "id": "s21",
+            "title": "Structures"
+        },
+        "s22": {
+            "id": "s22",
+            "title": "Equipment"
+        }
+    },
+        "payers_tree_original": {
+        "p1": {
+            "p2": null,
+            "p3": {
+                "p4": null,
+                "p5": null,
+                "p6": {
+                    "p7": null,
+                    "p8": null
+                },
+                "p9": {
+                    "p10": null,
+                    "p11": null
+                },
+                "p12": null,
+                "p13": null
+            },
+            "p14": {
+                "p15": null,
+                "p16": null,
+                "p17": null,
+                "p18": null,
+                "p19": null,
+                "p20": {
+                    "p21": null,
+                    "p22": null
+                },
+                "p23": {
+                    "p24": null,
+                    "p25": null
+                },
+                "p26": null,
+                "p27": null,
+                "p28": null,
+                "p29": null
+            },
+            "p30": {
+                "p31": null,
+                "p32": null
+            },
+            "p33": {
+                "p34": null,
+                "p35": null
+            },
+            "p36": null
+        }
+    }
+}
